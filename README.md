@@ -10,7 +10,7 @@ This code is released under [GNU GPL v3 license](http://www.gnu.org/licenses/gpl
 
 Author: Janez Urevc
 
-# Project includes
+# Includes
 
 ## Algorithms
 
